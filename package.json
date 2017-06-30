@@ -1,6 +1,6 @@
 {
   "name": "all-subsets",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Returns all the subsets of the given array",
   "author": "Gabor Szalay <yaastreet@gmail.com> (https://github.com/GaborSzalay)",
   "homepage": "https://github.com/GaborSzalay/all-subsets",
