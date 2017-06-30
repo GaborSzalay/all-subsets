@@ -1,0 +1,23 @@
+{
+  "name": "all-subsets",
+  "version": "0.1.0",
+  "description": "Returns all the subsets of the given array",
+  "author": "Gabor Szalay <yaastreet@gmail.com> (https://github.com/GaborSzalay)",
+  "homepage": "https://github.com/GaborSzalay/all-subsets",
+  "repository": "gaborszalay/all-subsets",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint index.js",
+    "test": "jest",
+    "prepush": "npm run lint && npm run test"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "jest": "^20.0.4"
+  }
+}
